@@ -5,3 +5,7 @@
 
 ## Obtendo o conteúdo da web:
 * O site https://www.alura.com.br/cursos-online-programacao possuia justamente as informações que necessitava para a categoria Programação. Logo bastava realizar o mesmo processo para as outras categorias(Frontend, Data Science, DevOps, UX, Mobile e Inovação & Gestão).
+
+<img src="img/AluraCS.png">
+
+* Dessa forma o código captura e categoriza todos os cursos disponíveis nas páginas buscadas de cada categoria(Programação, Frontend, Data Science, DevOps, UXDesign, Mobile e Inovação & Gestão).
