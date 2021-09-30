@@ -1,55 +1,33 @@
 ﻿Categoria;Subcategoria;Curso
-Data Science;SQL e Banco de Dados;Curso Introdução ao SQL com MySQL: Manipule e consulte dados
-Data Science;SQL e Banco de Dados;Curso Consultas SQL: Avançando no SQL com MySQL
-Data Science;SQL e Banco de Dados;Curso Comandos DML: Manipulação de dados com MySQL
-Data Science;SQL e Banco de Dados;Curso Procedures SQL: Executando código no MySQL
-Data Science;SQL e Banco de Dados;Curso Administração do MySQL: Segurança e otimização do banco
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Modelo e Álgebra Relacional
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Diagrama ER e Modelo Relacional
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Normalização
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Entendendo SQL
-Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados: Começando com NoSQL
-Data Science;SQL e Banco de Dados;Curso MySQL e JSON: Persistindo JSON de maneira eficiente
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Primeiros passos com SQL
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Views, Sub-Consultas e Funções
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Comandos DML e DDL
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Desenvolva com PL/pgSQL
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Triggers, transações, erros e cursores
-Data Science;SQL e Banco de Dados;Curso PostgreSQL: Administração e otimização do banco
-Data Science;SQL e Banco de Dados;Curso SQL Server: Introdução ao SQL com Microsoft SQL Server 2019
-Data Science;SQL e Banco de Dados;Curso SQL Server: Consultas avançadas com Microsoft SQL Server 2017
-Data Science;SQL e Banco de Dados;Curso SQL Server: Manipulação de dados com Microsoft SQL Server 2017
-Data Science;SQL e Banco de Dados;Curso SQL Server: T-SQL com Microsoft SQL Server 2017
-Data Science;SQL e Banco de Dados;Curso SQL Server: Administração do Microsoft SQL Server 2017
-Data Science;SQL e Banco de Dados;Curso SQL Server: Persistindo e recuperando documentos JSON
-Data Science;SQL e Banco de Dados;Curso SQL Server e XML: Persistindo XML de maneira eficiente
-Data Science;SQL e Banco de Dados;Curso Introdução ao SQL com Oracle: Manipule e consulte dados
-Data Science;SQL e Banco de Dados;Curso Consultas SQL no Oracle: Projeções, Seleções, Joins e Views
-Data Science;SQL e Banco de Dados;Curso Manipulação de dados no Oracle: Comandos DML
-Data Science;SQL e Banco de Dados;Curso Administração do Oracle Database: Criação e gerenciamento do banco
-Data Science;SQL e Banco de Dados;Curso Administração do Oracle Database: Segurança e otimização do banco
-Data Science;SQL e Banco de Dados;Curso Desempenho do Oracle Database: Análise do ambiente
-Data Science;SQL e Banco de Dados;Curso Desempenho do Oracle Database: Otimização de consultas
-Data Science;SQL e Banco de Dados;Curso Oracle PL/SQL: Procedures, funções e exceções
-Data Science;SQL e Banco de Dados;Curso Oracle PL/SQL: Dominando packages
-Data Science;Engenharia de Dados;Curso Engenharia de dados: Introdução a Data Pipelines
-Data Science;Engenharia de Dados;Curso Engenharia de Dados: Organizando dados na AWS
-Data Science;Engenharia de Dados;Curso Apache Beam: Data Pipeline com Python
-Data Science;Data Science;Curso Data Science: Primeiros passos
-Data Science;Data Science;Curso Python para Data Science: Introdução à linguagem e Numpy
-Data Science;Data Science;Curso Python para Data Science: Funções, Pacotes e Pandas básico
-Data Science;Data Science;Curso Python Pandas: Tratando e analisando dados
-Data Science;Data Science;Curso Python Pandas: Técnicas avançadas
-Data Science;Data Science;Curso Python Scikit-Learn: Regressão, classificação e clustering
-Data Science;Data Science;Curso Pandas: Formatos diferentes de entrada e saída (IO)
-Data Science;Data Science;Curso Scraping com Python: Coleta de dados na web
-Data Science;Data Science;Curso Data Science: Introdução a análise de series temporais
-Data Science;Data Science;Curso Data Analysis: Introdução com Google Sheets
-Data Science;Data Science;Curso Data Analysis: Previsões com Google Sheets
+Data Science;Business Intelligence;Curso Power BI Desktop: Carregue, analise e visualize dados
+Data Science;Business Intelligence;Curso Power BI Desktop: Construindo meu primeiro dashboard
+Data Science;Business Intelligence;Curso Power BI: Explorando recursos visuais
+Data Science;Business Intelligence;Curso Power BI: Entendendo as fórmulas DAX
+Data Science;Business Intelligence;Curso Dashboard com Power BI: Construindo relatórios
+Data Science;Business Intelligence;Curso DAX e ETL com Power BI: Carregando dados
+Data Science;Business Intelligence;Curso Tableau: Funções e cálculos LoD
+Data Science;Business Intelligence;Curso Google Data Studio: Introdução à ferramenta
+Data Science;Business Intelligence;Curso Tableau: Preparação e transformação de dados
+Data Science;Business Intelligence;Curso Dashboard com Pentaho: Visualize e analise os dados
+Data Science;Business Intelligence;Curso Consultas Multidimensionais: MDX com Pentaho
+Data Science;Business Intelligence;Curso OLAP com Pentaho: Construção do Data Mart
+Data Science;Business Intelligence;Curso Transformação com ETL: Pentaho Data Integration
+Data Science;Business Intelligence;Curso Modelos de ETL: Pentaho Data Integration
+Data Science;Business Intelligence;Curso Report Analysis com Pentaho: Gerando relatórios empresariais
+Data Science;Business Intelligence;Curso Dashboard com Tableau: Conceitos essencias
+Data Science;Business Intelligence;Curso Google Data Studio: Acessando o MySQL
+Data Science;Business Intelligence;Curso Power BI Desktop: Tratamento de dados no Power Query
+Data Science;Business Intelligence;Curso Google Data Studio: Parâmetros e Big Query
+Data Science;Business Intelligence;Curso Business Intelligence: Introdução à inteligência empresarial
+Data Science;Business Intelligence;Curso Google Data Studio: Filtros e funções
+Data Science;Business Intelligence;Curso ETL com Integration Services: Transformação de dados
+Data Science;Business Intelligence;Curso Consultas Multidimensionais: MDX com SQL Server
+Data Science;Business Intelligence;Curso OLAP com SQL Server: Construção do Data Warehouse
+Data Science;Business Intelligence;Curso Report Analysis com Power BI: Gerando relatórios empresariais
+Data Science;Business Intelligence;Curso ETL com Integration Services: Modelo de dados
+Data Science;Data Science;Curso Árvores de Decisão: Aprofundando em modelos de Machine Learning
 Data Science;Data Science;Curso Data Analysis: Estatística com Google Sheets
 Data Science;Data Science;Curso SAS parte 1: Manipulando bases de dados
-Data Science;Data Science;Curso SAS parte 2: Interagindo bases de dados
 Data Science;Data Science;Curso Data Science: Modelos de regressão por baixo dos panos
 Data Science;Data Science;Curso GeoPandas Parte 1: Trabalhando com dados Geoespaciais
 Data Science;Data Science;Curso GeoPandas Parte 2: Visualização com mapas interativos
@@ -58,24 +36,74 @@ Data Science;Data Science;Curso Análise de dados: Introdução com R
 Data Science;Data Science;Curso (I/O) com R: Formatos diferentes de entrada e saída
 Data Science;Data Science;Curso Regressão Linear Simples em R: Correlação e Previsão
 Data Science;Data Science;Curso Análise de série temporal: COVID-19
+Data Science;Data Science;Curso Data Science: previsão com ARIMA
 Data Science;Data Science;Curso Previsões de série temporal: COVID-19
 Data Science;Data Science;Curso Data Science: análises para saúde e medicina
 Data Science;Data Science;Curso Data Science: visualização de dados para saúde e medicina
+Data Science;Data Science;Curso Data Analysis: Previsões com Google Sheets
 Data Science;Data Science;Curso Clustering: extraindo padrões de dados
 Data Science;Data Science;Curso MLOps: Machine Learning e APIs
 Data Science;Data Science;Curso MLOps: Deploy de modelos
-Data Science;Data Science;Curso Árvores de Decisão: Aprofundando em modelos de Machine Learning
-Data Science;Data Visualization;Curso Data Visualization parte 1: introdução ao design de gráficos
+Data Science;Data Science;Curso Data Analysis: Introdução com Google Sheets
+Data Science;Data Science;Curso SAS parte 2: Interagindo bases de dados
+Data Science;Data Science;Curso Scraping com Python: Coleta de dados na web
+Data Science;Data Science;Curso Data Science: Introdução a análise de series temporais
+Data Science;Data Science;Curso Python para Data Science: Introdução à linguagem e Numpy
+Data Science;Data Science;Curso Python para Data Science: Funções, Pacotes e Pandas básico
+Data Science;Data Science;Curso Python Pandas: Tratando e analisando dados
+Data Science;Data Science;Curso Data Science: Primeiros passos
+Data Science;Data Science;Curso Data analysis: introdução a séries temporais e análises
+Data Science;Data Science;Curso Python Scikit-Learn: Regressão, classificação e clustering
+Data Science;Data Science;Curso Pandas: Formatos diferentes de entrada e saída (IO)
+Data Science;Data Science;Curso Python Pandas: Técnicas avançadas
 Data Science;Data Visualization;Curso Data Visualization parte 2: Escolhendo o melhor gráfico
-Data Science;Data Visualization;Curso Data Visualization parte 1: gráficos com uma variável
-Data Science;Data Visualization;Curso Data Visualization parte 2: gráficos com multivariáveis
-Data Science;Data Visualization;Curso Data Visualization: Explorando com Seaborn
-Data Science;Data Visualization;Curso Data Visualization: Explorando com rawgraphs
-Data Science;Data Visualization;Curso Data Visualization: criação de gráficos com o Matplotlib
-Data Science;Data Visualization;Curso QGIS: Trabalhando com dados geoespaciais
 Data Science;Data Visualization;Curso Programação em R: Desenvolva dashboards online com Shiny
+Data Science;Data Visualization;Curso Data Visualization: criação de gráficos com o Matplotlib
+Data Science;Data Visualization;Curso Data Visualization: Explorando com rawgraphs
+Data Science;Data Visualization;Curso Data Visualization: Explorando com Seaborn
+Data Science;Data Visualization;Curso Data Visualization parte 2: gráficos com multivariáveis
+Data Science;Data Visualization;Curso Data Visualization parte 1: gráficos com uma variável
+Data Science;Data Visualization;Curso Data Visualization parte 1: introdução ao design de gráficos
+Data Science;Data Visualization;Curso QGIS: Trabalhando com dados geoespaciais
+Data Science;Engenharia de Dados;Curso Engenharia de dados: Introdução a Data Pipelines
+Data Science;Engenharia de Dados;Curso Engenharia de Dados: Organizando dados na AWS
+Data Science;Engenharia de Dados;Curso Apache Beam: Data Pipeline com Python
+Data Science;Estatística;Curso Regressão Linear: Técnicas Avançadas de Modelagem
+Data Science;Estatística;Curso Regressão Linear: Testando Relações e Prevendo Resultados
+Data Science;Estatística;Curso Introdução à experimentação: Análise de experimentos
+Data Science;Estatística;Curso Estatística com R: Correlação e regressão
+Data Science;Estatística;Curso Estatística com R: Testes de hipóteses
+Data Science;Estatística;Curso Estatística com R: Probabilidade e amostragem
+Data Science;Estatística;Curso Estatística com R: Frequências e medidas
+Data Science;Estatística;Curso Estatística com Python parte 1: Frequências e Medidas
+Data Science;Estatística;Curso Estatística com Python parte 2: Probabilidade e Amostragem
+Data Science;Estatística;Curso Estatística com Python parte 3: Testes de hipóteses
+Data Science;Estatística;Curso Estatística com Python parte 4: Correlação e Regressão
+Data Science;Estatística;Curso Data Science: Introdução a testes estatísticos com Python
+Data Science;Estatística;Curso Estatística com R: Introdução à modelagem
+Data Science;Excel;Curso Excel: Simulação e análise de cenários
+Data Science;Excel;Curso Excel: Domine o editor de planilhas
+Data Science;Excel;Curso Funções com Excel: operações matemáticas e filtros
+Data Science;Excel;Curso Excel procv: lógica booleana e busca por valores
+Data Science;Excel;Curso Análise de dados: Introdução com Excel
+Data Science;Excel;Curso Excel VBA: Criando Formulários para facilitar a entrada de dados nas planilhas
+Data Science;Excel;Curso Excel: Criação de macros e automatização de tarefas
+Data Science;Excel;Curso Excel: tabelas dinâmicas e dashboards
+Data Science;Excel;Curso Excel VBA: Automatize tarefas diárias mesmo não sendo programador
+Data Science;Excel;Curso Excel VBA 3: Criando conexão com o Outlook Application
+Data Science;Excel;Curso Excel VBA 4: Criando conexão com Access
+Data Science;Excel;Curso Excel: Personalizando e automatizando tarefas com VBA
+Data Science;Machine Learning;Curso Clustering Básico: k-means, DBSCAN e mean shift
+Data Science;Machine Learning;Curso MLflow: Gestão do ciclo de vidas de modelos de ML
+Data Science;Machine Learning;Curso AWS SageMaker: Machine Learning em produção
+Data Science;Machine Learning;Curso Clusterização de dados: Segmentação de clientes
+Data Science;Machine Learning;Curso Word2Vec: Treinamento de Word Embedding
+Data Science;Machine Learning;Curso Word2Vec: interpretação da linguagem humana com Word embedding
+Data Science;Machine Learning;Curso Modelos preditivos em dados: detecção de fraude
+Data Science;Machine Learning;Curso Deep Learning parte 2: Como a rede aprende
+Data Science;Machine Learning;Curso Corretor Ortográfico em Python: Aplicando técnicas de NLP
+Data Science;Machine Learning;Curso Análise e Classificação de Faces: Visão Computacional com OpenCV
 Data Science;Machine Learning;Curso Machine Learning: Introdução a classificação com SKLearn
-Data Science;Machine Learning;Curso Machine Learning: Validação de modelos
 Data Science;Machine Learning;Curso Machine Learning parte 1: Otimização de modelos através de hiperparâmetros
 Data Science;Machine Learning;Curso Machine learning com R: Classificação de focos de dengue
 Data Science;Machine Learning;Curso Machine Learning parte 2: Otimização com exploração aleatória
@@ -85,102 +113,77 @@ Data Science;Machine Learning;Curso Linguagem Natural parte 2: Continuando com a
 Data Science;Machine Learning;Curso NLP: Introdução a regex e modelos de linguagem
 Data Science;Machine Learning;Curso Classificação multilabel de textos: múltiplos contextos em NLP
 Data Science;Machine Learning;Curso Machine Learning: Intro a sistemas de recomendação em Python
-Data Science;Machine Learning;Curso Machine Learning: Avançando com tipos diferentes de classificação
+Data Science;Machine Learning;Curso Machine Learning: Validação de modelos
 Data Science;Machine Learning;Curso Machine Learning: Lidando com dados de muitas dimensões
 Data Science;Machine Learning;Curso Machine Learning: Cluster com R
 Data Science;Machine Learning;Curso Machine Learning: Credit Scoring
 Data Science;Machine Learning;Curso Regressão: Implemente uma rede neural com numpy
 Data Science;Machine Learning;Curso Deep Learning parte 1: Introdução com Keras
-Data Science;Machine Learning;Curso Deep Learning parte 2: Como a rede aprende
 Data Science;Machine Learning;Curso Deep Learning: Previsão com Keras
 Data Science;Machine Learning;Curso Data Analytics: Machine Learning com Google Cloud Platform
 Data Science;Machine Learning;Curso Redes Neurais: Deep Learning com PyTorch
 Data Science;Machine Learning;Curso Redes Neurais Convolucionais: Deep Learning com PyTorch
+Data Science;Machine Learning;Curso Machine Learning: Avançando com tipos diferentes de classificação
 Data Science;Machine Learning;Curso Treinando uma Rede Neural: Deep Learning com PyTorch
 Data Science;Machine Learning;Curso Redes Neurais Recorrentes: Deep Learning com Pytorch
-Data Science;Machine Learning;Curso Corretor Ortográfico em Python: Aplicando técnicas de NLP
-Data Science;Machine Learning;Curso Análise e Classificação de Faces: Visão Computacional com OpenCV
-Data Science;Machine Learning;Curso Modelos preditivos em dados: detecção de fraude
-Data Science;Machine Learning;Curso Clustering Básico: k-means, DBSCAN e mean shift
-Data Science;Machine Learning;Curso Word2Vec: interpretação da linguagem humana com Word embedding
-Data Science;Machine Learning;Curso Word2Vec: Treinamento de Word Embedding
-Data Science;Machine Learning;Curso Clusterização de dados: Segmentação de clientes
-Data Science;Machine Learning;Curso AWS SageMaker: Machine Learning em produção
-Data Science;Machine Learning;Curso MLflow: Gestão do ciclo de vidas de modelos de ML
-Data Science;Excel;Curso Excel: Domine o editor de planilhas
-Data Science;Excel;Curso Funções com Excel: operações matemáticas e filtros
-Data Science;Excel;Curso Excel procv: lógica booleana e busca por valores
-Data Science;Excel;Curso Excel: Simulação e análise de cenários
-Data Science;Excel;Curso Análise de dados: Introdução com Excel
-Data Science;Excel;Curso Excel: Personalizando e automatizando tarefas com VBA
-Data Science;Excel;Curso Excel: Criação de macros e automatização de tarefas
-Data Science;Excel;Curso Excel: tabelas dinâmicas e dashboards
-Data Science;Excel;Curso Excel VBA: Automatize tarefas diárias mesmo não sendo programador
-Data Science;Excel;Curso Excel VBA: Criando Formulários para facilitar a entrada de dados nas planilhas
-Data Science;Excel;Curso Excel VBA 3: Criando conexão com o Outlook Application
-Data Science;Excel;Curso Excel VBA 4: Criando conexão com Access
-Data Science;Business Intelligence;Curso Business Intelligence: Introdução à inteligência empresarial
-Data Science;Business Intelligence;Curso ETL com Integration Services: Modelo de dados
-Data Science;Business Intelligence;Curso ETL com Integration Services: Transformação de dados
-Data Science;Business Intelligence;Curso Consultas Multidimensionais: MDX com SQL Server
-Data Science;Business Intelligence;Curso OLAP com SQL Server: Construção do Data Warehouse
-Data Science;Business Intelligence;Curso Report Analysis com Power BI: Gerando relatórios empresariais
-Data Science;Business Intelligence;Curso Report Analysis com Pentaho: Gerando relatórios empresariais
-Data Science;Business Intelligence;Curso Modelos de ETL: Pentaho Data Integration
-Data Science;Business Intelligence;Curso Transformação com ETL: Pentaho Data Integration
-Data Science;Business Intelligence;Curso OLAP com Pentaho: Construção do Data Mart
-Data Science;Business Intelligence;Curso Consultas Multidimensionais: MDX com Pentaho
-Data Science;Business Intelligence;Curso Dashboard com Pentaho: Visualize e analise os dados
-Data Science;Business Intelligence;Curso Dashboard com Tableau: Conceitos essencias
-Data Science;Business Intelligence;Curso Tableau: Preparação e transformação de dados
-Data Science;Business Intelligence;Curso Tableau: Funções e cálculos LoD
-Data Science;Business Intelligence;Curso DAX e ETL com Power BI: Carregando dados
-Data Science;Business Intelligence;Curso Dashboard com Power BI: Construindo relatórios
-Data Science;Business Intelligence;Curso Power BI Desktop: Tratamento de dados no Power Query
-Data Science;Business Intelligence;Curso Power BI: Entendendo as fórmulas DAX
-Data Science;Business Intelligence;Curso Power BI: Explorando recursos visuais
-Data Science;Business Intelligence;Curso Power BI Desktop: Construindo meu primeiro dashboard
-Data Science;Business Intelligence;Curso Google Data Studio: Introdução à ferramenta
-Data Science;Business Intelligence;Curso Google Data Studio: Acessando o MySQL
-Data Science;Business Intelligence;Curso Google Data Studio: Filtros e funções
-Data Science;Business Intelligence;Curso Google Data Studio: Parâmetros e Big Query
-Data Science;NoSQL;Curso Redis I: Armazenando chaves e valores
-Data Science;NoSQL;Curso Redis II: Estruturas e recursos na sua base NoSQL
-Data Science;NoSQL;Curso MongoDB: Uma alternativa aos bancos relacionais tradicionais
-Data Science;NoSQL;Curso Elasticsearch: Pesquisando e analisando os seus dados
+Data Science;Matemática;Curso Raízes de equações: Métodos numéricos com o Excel
+Data Science;Matemática;Curso Matemática: Operações com Matrizes
+Data Science;Matemática;Curso Matemática: álgebra linear e vetores no R3
+Data Science;Matemática;Curso Matemática: espaços e subespaços vetoriais
+Data Science;NoSQL;Curso Modelagem MongoDB: relacionamentos e cardinalidade
 Data Science;NoSQL;Curso Elasticsearch 5: Pesquisas avançadas
 Data Science;NoSQL;Curso MongoDB: Modelagem de dados
-Data Science;NoSQL;Curso Modelagem MongoDB: relacionamentos e cardinalidade
 Data Science;NoSQL;Curso Introdução ao Datomic: Um banco cronológico
-Data Science;NoSQL;Curso Datomic Queries: Avançando com o modelo e pesquisas
+Data Science;NoSQL;Curso Elasticsearch: Executando buscas inteligentes
 Data Science;NoSQL;Curso Datomic: Schemas e Regras
 Data Science;NoSQL;Curso Datomic: Bindings, transaction functions e filters
 Data Science;NoSQL;Curso Datomic: Banco filtrado e histórico
 Data Science;NoSQL;Curso Datomic: Geradores, schemas e índices
-Data Science;NoSQL;Curso Elasticsearch: Executando buscas inteligentes
 Data Science;NoSQL;Curso Elasticsearch: análise, consultas e dashboard
 Data Science;NoSQL;Curso BigQuery: O banco de dados da Google para Big Data
 Data Science;NoSQL;Curso BigQuery: Funções do BigQuery
 Data Science;NoSQL;Curso BigQuery: Manipulação de dados
-Data Science;NoSQL;Curso Acesso ao Big Query: Manipulação programático linguagens
+Data Science;NoSQL;Curso Elasticsearch: Pesquisando e analisando os seus dados
+Data Science;NoSQL;Curso Datomic Queries: Avançando com o modelo e pesquisas
+Data Science;NoSQL;Curso MongoDB: Uma alternativa aos bancos relacionais tradicionais
 Data Science;NoSQL;Curso Google BigQuery e Data Studio: Projeto final
-Data Science;Matemática;Curso Matemática: Operações com Matrizes
-Data Science;Matemática;Curso Matemática: álgebra linear e vetores no R3
-Data Science;Matemática;Curso Matemática: espaços e subespaços vetoriais
-Data Science;Matemática;Curso Raízes de equações: Métodos numéricos com o Excel
-Data Science;Estatística;Curso Estatística com Python parte 1: Frequências e Medidas
-Data Science;Estatística;Curso Estatística com Python parte 2: Probabilidade e Amostragem
-Data Science;Estatística;Curso Estatística com Python parte 3: Testes de hipóteses
-Data Science;Estatística;Curso Estatística com Python parte 4: Correlação e Regressão
-Data Science;Estatística;Curso Data Science: Introdução a testes estatísticos com Python
-Data Science;Estatística;Curso Regressão Linear: Técnicas Avançadas de Modelagem
-Data Science;Estatística;Curso Regressão Linear: Testando Relações e Prevendo Resultados
-Data Science;Estatística;Curso Estatística com R: Introdução à modelagem
-Data Science;Estatística;Curso Estatística com R: Frequências e medidas
-Data Science;Estatística;Curso Estatística com R: Probabilidade e amostragem
-Data Science;Estatística;Curso Estatística com R: Testes de hipóteses
-Data Science;Estatística;Curso Estatística com R: Correlação e regressão
-Data Science;Estatística;Curso Introdução à experimentação: Análise de experimentos
+Data Science;NoSQL;Curso Redis I: Armazenando chaves e valores
+Data Science;NoSQL;Curso Acesso ao Big Query: Manipulação programático linguagens
+Data Science;NoSQL;Curso Redis II: Estruturas e recursos na sua base NoSQL
+Data Science;SQL e Banco de Dados;Curso Consultas SQL: Avançando no SQL com MySQL
+Data Science;SQL e Banco de Dados;Curso Comandos DML: Manipulação de dados com MySQL
+Data Science;SQL e Banco de Dados;Curso Procedures SQL: Executando código no MySQL
+Data Science;SQL e Banco de Dados;Curso Administração do MySQL: Segurança e otimização do banco
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Modelo e Álgebra Relacional
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Diagrama ER e Modelo Relacional
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados: Começando com NoSQL
+Data Science;SQL e Banco de Dados;Curso MySQL e JSON: Persistindo JSON de maneira eficiente
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Primeiros passos com SQL
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Views, Sub-Consultas e Funções
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Comandos DML e DDL
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Entendendo SQL
+Data Science;SQL e Banco de Dados;Curso Modelagem de banco de dados relacional: Normalização
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Triggers, transações, erros e cursores
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Administração e otimização do banco
+Data Science;SQL e Banco de Dados;Curso Oracle PL/SQL: Dominando packages
+Data Science;SQL e Banco de Dados;Curso Oracle PL/SQL: Procedures, funções e exceções
+Data Science;SQL e Banco de Dados;Curso Desempenho do Oracle Database: Otimização de consultas
+Data Science;SQL e Banco de Dados;Curso Desempenho do Oracle Database: Análise do ambiente
+Data Science;SQL e Banco de Dados;Curso Administração do Oracle Database: Segurança e otimização do banco
+Data Science;SQL e Banco de Dados;Curso Administração do Oracle Database: Criação e gerenciamento do banco
+Data Science;SQL e Banco de Dados;Curso Manipulação de dados no Oracle: Comandos DML
+Data Science;SQL e Banco de Dados;Curso PostgreSQL: Desenvolva com PL/pgSQL
+Data Science;SQL e Banco de Dados;Curso Consultas SQL no Oracle: Projeções, Seleções, Joins e Views
+Data Science;SQL e Banco de Dados;Curso SQL Server e XML: Persistindo XML de maneira eficiente
+Data Science;SQL e Banco de Dados;Curso SQL Server: Persistindo e recuperando documentos JSON
+Data Science;SQL e Banco de Dados;Curso SQL Server: Administração do Microsoft SQL Server 2017
+Data Science;SQL e Banco de Dados;Curso SQL Server: T-SQL com Microsoft SQL Server 2017
+Data Science;SQL e Banco de Dados;Curso SQL Server: Manipulação de dados com Microsoft SQL Server 2017
+Data Science;SQL e Banco de Dados;Curso SQL Server: Consultas avançadas com Microsoft SQL Server 2017
+Data Science;SQL e Banco de Dados;Curso SQL Server: Introdução ao SQL com Microsoft SQL Server 2019
+Data Science;SQL e Banco de Dados;Curso Introdução ao SQL com Oracle: Manipule e consulte dados
+Data Science;SQL e Banco de Dados;Curso Introdução ao SQL com MySQL: Manipule e consulte dados
 Devops;Builds e Controle de versão;Curso Git e Github: Controle e compartilhe seu código
 Devops;Builds e Controle de versão;Curso Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
 Devops;Builds e Controle de versão;Curso Maven: Gerenciamento de dependências e build de aplicações Java
@@ -539,6 +542,7 @@ Inovação & Gestão;Habilidades Interpessoais;Curso Inteligência Emocional: Pr
 Inovação & Gestão;Habilidades Interpessoais;Curso Comunicação Assertiva: Reduzindo conflitos e frustrações
 Inovação & Gestão;Habilidades Interpessoais;Curso PNL: comunicação efetiva para o dia a dia
 Inovação & Gestão;Marketing;Curso Marketing digital: Fundamentos para seu planejamento on-line
+Inovação & Gestão;Marketing;Curso Marketing Digital: Por onde começar
 Inovação & Gestão;Marketing;Curso Estratégias de marketing: Lançamento de produto digital
 Inovação & Gestão;Marketing;Curso Branding: Criando uma marca forte
 Inovação & Gestão;Marketing;Curso Rebranding: mude, transforme e recrie marcas para o século 21
@@ -905,6 +909,7 @@ Programação;Persistência com .NET;Curso .Net e MongoDB parte 2: Integre uma w
 Programação;.NET API;Curso APIs Rest com Asp.NET Core 2.1 Parte 2: Consumindo nossa API
 Programação;.NET API;Curso APIs Rest com Asp.NET Core 2.1 Parte 3: padronizando a API
 Programação;.NET API;Curso API Rest com .NET 5: Operações essenciais com verbos HTTP
+Programação;.NET API;Curso .NET 5 e Identity: Implementando controle de usuário
 Programação;.NET API;Curso ASP.NET Identity parte 1: Gerencie contas de usuários
 Programação;.NET API;Curso ASP.NET Identity parte 2: autenticação e segurança com lockout
 Programação;.NET API;Curso ASP.NET Identity parte 3: Autorização, autenticação externa com redes sociais
